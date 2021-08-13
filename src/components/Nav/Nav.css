@@ -1,0 +1,38 @@
+.nav-container {
+  display: flex;
+  height: 72px;
+  align-items: center;
+  background: #1d2020;
+  margin: 0;
+  box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.12), 0px 1px 2px rgba(0, 0, 0, 0.26);
+  justify-content: space-between;
+}
+
+.nav-left {
+  display: flex;
+  align-items: center;
+}
+
+.nav-right {
+  margin-right: 40px;
+}
+
+.type-logo {
+  margin-left: 20px;
+  height: 40px;
+}
+
+.type-logo-text {
+  font-family: "Bangers", cursive;
+  color: aliceblue;
+  letter-spacing: 1px;
+  font-size: 50px;
+  margin: 0 10px;
+  color: #e7e6e7;
+}
+
+.nav-link {
+  font-size: 32px;
+  font-weight: 800;
+  color: #e7e6e7;
+}
