@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/itss1ddhant.github.io/typetest/static/css/main.e99df7a3.chunk.css",
+    "main.js": "/itss1ddhant.github.io/typetest/static/js/main.bd742e57.chunk.js",
+    "main.js.map": "/itss1ddhant.github.io/typetest/static/js/main.bd742e57.chunk.js.map",
+    "runtime-main.js": "/itss1ddhant.github.io/typetest/static/js/runtime-main.848cf9d9.js",
+    "runtime-main.js.map": "/itss1ddhant.github.io/typetest/static/js/runtime-main.848cf9d9.js.map",
+    "static/js/2.3af9f350.chunk.js": "/itss1ddhant.github.io/typetest/static/js/2.3af9f350.chunk.js",
+    "static/js/2.3af9f350.chunk.js.map": "/itss1ddhant.github.io/typetest/static/js/2.3af9f350.chunk.js.map",
+    "index.html": "/itss1ddhant.github.io/typetest/index.html",
+    "static/css/main.e99df7a3.chunk.css.map": "/itss1ddhant.github.io/typetest/static/css/main.e99df7a3.chunk.css.map",
+    "static/js/2.3af9f350.chunk.js.LICENSE.txt": "/itss1ddhant.github.io/typetest/static/js/2.3af9f350.chunk.js.LICENSE.txt",
+    "static/media/typetester1.904ac8fd.png": "/itss1ddhant.github.io/typetest/static/media/typetester1.904ac8fd.png",
+    "static/media/typetester2.96e141d3.png": "/itss1ddhant.github.io/typetest/static/media/typetester2.96e141d3.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.848cf9d9.js",
+    "static/js/2.3af9f350.chunk.js",
+    "static/css/main.e99df7a3.chunk.css",
+    "static/js/main.bd742e57.chunk.js"
+  ]
+}
